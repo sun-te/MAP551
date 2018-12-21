@@ -1,0 +1,9 @@
+3              !type of model (nb of equations) : 2 or 3 
+0.0            !tini: intial time  
+2.0            !tend: final time
+201            !nt: nb of time discretization points to compute splitting time step
+0.0            !xmin: left limit of domain
+4.0            !xmax: right limit of domain
+4001           !nx: nb of spatial discretization points
+strang         !method: integration method (radau5, strang)
+1.d-06         !tol: tolerance for radau5 and rock4
