@@ -5,6 +5,11 @@ MAP551 is a great course at Ecole Polytechnique, during which we are inspecting 
 stability, bifurcation of dynamical system and influence of parameters in EDP
 
 Furthermore, we have also discovered the chaos system, manifold and other topology of EDP 
+<div align="center">
+    <img src="NoteBook/img/2andHalfDim.png", width="200">
+    <img src="NoteBook/img/Lorentz.png", width="200">
+    <img src="NoteBook/img/BZ_reaction.png", width="200">
+</div>
 
 ----
 
